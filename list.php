@@ -6,15 +6,15 @@
 			table {
 				border: 1px solid black;
 				border-collapse: collapse;
-			}
 			
+
 			th {
 				background-color: lightgray;
 				
 			}
 			th, td {
 				border: 1px solid black;
-				padding: 7px 7px;
+				padding: 3px 7px;
 			}
 			
 		</style>
